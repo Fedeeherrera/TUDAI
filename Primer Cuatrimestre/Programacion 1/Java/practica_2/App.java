@@ -1,5 +1,5 @@
 public class App {
-  public static void main(String[] args) {
+  public static void main(String[] args) { 
     // Declaracion de variables
     int negOrPos = 0, grandeoChico = 0, diaDeSemana = 0, numero1 = 0, numero2 = 0, numero3 = 0;
     String letra = "";

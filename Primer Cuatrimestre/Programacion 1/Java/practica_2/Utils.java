@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class Utils {
-
+ 
   /**
    * Función que lee un número entero desde teclado
    * 

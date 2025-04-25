@@ -1,12 +1,10 @@
-/*
-Ejercicio 1 
 public class HolaMundo {
   public static void main(String[] args) {
     int entero = 20;
     boolean vof = true;
     char character = 's';
     double elDoble = 1515151;
-    System.out.println("Hello World!");
+    System.out.println("Hello Worldd!");
     System.out.println("El numero entero a mostrar es: ' " + entero);
     System.out.println("El booleano a mostrar es: "  + vof);
     System.out.println("El caracter a mostrar es: "  + character);
@@ -14,7 +12,7 @@ public class HolaMundo {
   }
 }
 
-*/
+
 
 /*
  Ejercicio 2 
@@ -140,9 +138,10 @@ public class HolaMundo {
 */
 
 
-/* Ejercicio 10 */
+/* Ejercicio 10 
 public class HolaMundo {
   public static void main(String[] args) {
     
   }
 }
+*/
